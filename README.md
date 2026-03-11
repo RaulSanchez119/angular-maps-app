@@ -2,6 +2,10 @@
 
 Aplicación de mapas interactivos construida con **Angular 21** y **MapLibre GL**, sin necesidad de token de API. Permite explorar mapas, añadir marcadores personalizados y visualizar propiedades con su ubicación.
 
+## 🌐 Demo en vivo
+
+👉 [angular-maps-rsanchez.netlify.app](https://angular-maps-rsanchez.netlify.app)
+
 ## 🚀 Tecnologías
 
 - Angular 21
