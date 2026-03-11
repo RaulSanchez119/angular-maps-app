@@ -55,4 +55,4 @@ src/app/
 
 ## 👤 Autor
 
-Raul Sanchez — [LinkedIn](https://www.linkedin.com/in/raul-sanchez)
+Raul Sanchez — [LinkedIn](https://www.linkedin.com/in/raul-sanchez-rivera/)
